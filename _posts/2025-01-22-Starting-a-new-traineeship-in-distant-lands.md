@@ -1,30 +1,43 @@
 ---
 layout: post
-title: "Starting a new traineeship in distant lands."
+title: "Starting a new traineeship in distant lands"
 description: "My experience and thoughts on starting a new job in Cybersecurity"
 date: 2025-01-22
-feature_image: images/desk.jpg 
-tags: [tips, work]
+feature_image: images/on2it_outside_sign.jpg
+tags: [traineeship, work, cybersecurity, cisco, ccna, networking]
 ---
+November 13th, *ring* *ring*, my phone buzzed. I tentatively answered and... to my delight, it's someone from the traineeship I applied for. They want me on their team. How amazing is this. A leading company in Cybersecurity in The Netherlands is offering me a job where I get to learn and certify while working. How amazing is that?
 
-## Test test 
+But what do I have to arrange before I start working? 
 
-A work at home parent is an entrepreneur who works from home and integrates parenting into his or her business activities. They are sometimes referred to as a WAHM *(work at home mom)* or a WAHD *(work at home dad)*.
-## test2
-Entrepreneurs choose to run businesses from home for a variety of reasons, including lower business expenses, personal health limitations, eliminating commuting, or in order to have a more flexible schedule. This flexibility can give an entrepreneur more options when planning tasks, business and non-business, including parenting duties. While some home-based entrepreneurs opt for childcare outside the home,[1] others integrate child rearing into their work day and workspace. The latter are considered work-at-home parents.
+### Zo veel dingetjes
 
-<!--more-->
+Having worked in Healthcare and the Military for the last 10 years, the prospect of jumping into IT was a huge change. I'd dabbled in tech, tickled the its whiskers so to speak. I'd had a lot of fun, and I found it interesting, but making it a full time job was something far bigger. Saying goodbye to family and friends, tax, transport, insurance, mileage, inscrijven, verhuizen, reibweis? Ahh where to start? How do I sort out all these things? (Oh, and did I forget to mention it's in a new country? Where I don't live. And don't fully speak the Dutch? And have to start anew?) Thank God my partner is there to help!
 
-Many WAHPs start home-based businesses in order to care for their children while still creating income. The desire to care for one's own children, the incompatibility of a 9-to-5 work day with school hours or sick days, and the expense of childcare prompt many parents to change or leave their jobs in the workforce to be available to their children. Many WAHPs build a business schedule that can be integrated with their parenting duties.
+But it's all a matter of perspective. An old friend of mine once told me a long story with a great punchline; one of those long-winded ones with far too many dramatic liberties, and I forgot the punchline. But anyway, it boiled down to the old Irish Proverb, "Life is like a cuppa tea, it is what you make of it." And this is a tool that I have always kept in my mental toolbox. Big changes can be challenging, but they also host opportunities.
 
-## Concept
+All of these things, are character building opportunities. Each is a challenge, something that is possible to navigate on it's own, as a small step. Bigger changes are just this, a series of small steps. Each is an opportunity to learn more and move forward with something new. Easy when one thinks of these in this manner.
 
-The Fusion Festival combines all styles of the underground electronic music scene and various other styles, sometimes depending on the attendees who choose to play their own music. It is described as a space people go to free their minds from their everyday lives, jobs, studies and other responsibilities. It is the result of the search for an alternative through music, to the system "people are forced to live in". People go to the Fusion to experience a different way of socializing and living, where experiencing one another freely, sharing love for music and art connects different scenes and minds. It is a clothing-optional event. Art installations include performance arts, static artworks, sculptures, art cars and various other forms.
+So  moving country, learning Dutch, renovating our new place, mastering a new trade, navigating the Dutch healthcare system, sorting transportation, buying insurance, registration, suddenly aren't so scary.
 
-Fusion Festival began in 1997 near the city of Lärz in north-eastern Germany, about 160 km from Berlin and 230 km from Hamburg.
+### Eerst week
 
-## Festival Site
+On 6th January, I started at ON2IT. First we had a half-day of walkarounds and team introductions. I have to admit everyone, absolutely everyone, stood up to personally come over and introduce themselves. Everyone was very friendly and our tour of the building was interesting, getting to see the SOC (Security Operations Centre), Development and other departments (HR, Marketing, Sales, Finance, etc) was dead interesting.
 
-The location is on the original grass-covered grounds of a disused military airfield (at 53°20′48.11″N 12°44′23.25″E for the 234-hectare area central field) about 4.5 km (2.25 miles) due north of the modern Rechlin-Lärz Airfield facility. The site was first acquired by the German Empire in 1916 as an aviation research and training ground, opening the facility for use by the Luftstreitkräfte in August 1918. After the establishment of the Luftwaffe in 1935, the field served as the Erprobungsstelle Rechlin central military aircraft test facility of the Third Reich through early 1945, and it was captured by the Soviet Red Army on May 2, 1945, for use by the VVS. 
+But the formalities were quickly over, we had 4 weeks to soak up all the networking knowledge we could because on the first day we sat down with our orientator and book our Cisco CCNA.
 
-There are grass-covered concrete hangars (actual bunkers) from that time that were used for Soviet fighter aircraft (hence the Cyrillic transliteration of the festival name and various stages, as many Cyrillic inscriptions were still present on the site). The airfield was reopened for civilian use in 1994 and sold to the Müritz Airpark Group in 2010. [[Source](https://en.wikipedia.org/wiki/Fusion_Festival)]
+By afternoon we were straight into the course with Adrian and Arthur from the Savnet academy. At first I was sceptical about how the course would go, but it was quickly clear that these two guys, frankly...well... *they knew their shit*.
+
+Adrian jumped straight into the Cisco Netacad course and before we knew it the first module was finished. Monday through Friday disappeared in the blink of an eye. I've heard that time passes quicker when you're enjoying what you're working on. Well I think this must be case, Adrian had many packet-tracer labs for us to try. We would quickly cover theory and then focus on practical labs to develop our understanding about networking. At this stage we were focused primarily on distinguishing layer 2 and layer 3 devices, their roles, how the lifecycle of frames and packets translates into reality and the vastness of IOS (*no, not the apple one, the **cisco** one*).
+
+I would stay into the evenings on most days, it would help me skip the 1700 traffic anyway. I would travel northbound on the A15 going past Tiel which would basically be a very long carpark come 5 o'clock. Often I would study with Victor (another trainee) into the evenings. At least that is what we tried to do... more than once did it occur that one of us would pose a question to the other, to which neither of us would know the answer. "What if we set a STP topology do with several bridges marked as the secondary or primary root bridge?" Let's just say almost every study session we would generate a healthy flow of hypothetical and difficult to answer/explain questions for our instructors the next day. To which we were constantly surprised - Arthur and Adrian could explain our curiousities away with ease. Again, *these two knew their shit.*
+
+### Ende van de week
+
+It's surprisingly how quickly team dynamics form. By Friday, everyone was - as we say in Ireland - having *mighty craic*! But we weren't just exchanging stories and good laughs, we were also talking about networking, all of us were genuinely interested and excited in this area of tech. And because we all had differ backgrounds it made for some pretty interesting insights. Satellite engineers, embedded system engineers, AI grads, web developers, healthcare professionals, we had it all. Well if all is a tech workshop with a medical backup then sure!
+
+Come Friday, we had finished the first netacad module. Studying from 0800-1900 most days is intense so it's important to have some home support and some down-time. When I arrived home through the fron door I was delighted to find my Partner waiting for me to join her for a celebratory wijntje. 
+
+*Proost!*
+
+{% include image_caption.html imageurl="/images/on2it_end_first_week.jpg" title="Celebratory Drink" caption="Celebratory drink after the first week." %}
