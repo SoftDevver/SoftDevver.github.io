@@ -32,12 +32,12 @@ navigation:
     url: /
   - text: About
     url: /about
-  - text: Style Guide
-    url: /style-guide/
+#  - text: Style Guide
+#    url: /style-guide/
   - text: Tags
     url: /tags/
-  - text: Download
-    url: https://softdevver.github.io/
+#  - text: Download
+#    url: https://softdevver.github.io/
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
