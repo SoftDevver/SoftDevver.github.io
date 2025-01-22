@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About this blog
-description: An optional about page for Scriptor Jekyll theme
+description: Information about the blog
 feature_image: images/author.jpg
 ---
 
-**John Doe** is a Senior Art Director from [Vilnius](https://en.wikipedia.org/wiki/Vilnius), Lithuania. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+**Chris Swain** is an IT Professional from [Magheralin](https://en.wikipedia.org/wiki/Magheralin), Northern Ireland. Initially, Chris worked in healthcare working on ambulances and eventually qualified as a Diagnostic Radiographer. Following this he worked within the NHS and as a Medical Military Reservist, specialising in [Computed Tomography](https://en.wikipedia.org/wiki/Computed_Tomography) and education. During, the COVID-19 pandemic Chris used his much missed vacation time to retrain in Software Development as a postgraduate. 
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2015.
+Eventually, he moved into IT professionally and started a traineeship with [ON2IT BV](https://on2it.net/nl/) becoming a Junior Cybersecurity Operator. 
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
-
-*Thank You for reading!*
+This blog documents the highs, lows, challenges and victories throughout this journey. 

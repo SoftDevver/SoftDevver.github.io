@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site language
-lang: en-US
+lang: en-GB
 
 # Site title
 title: "SoftDevver"
 
 # A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+description: "Scanning bones, securing zones - How I ended up in cybersecurity!"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
@@ -57,7 +57,6 @@ plugins:
 # http://jekyllrb.com/docs/pagination/
 paginate: 3
 paginate_path: '/page:num/'
-
 
 # Permalinks
 permalink: /:title
