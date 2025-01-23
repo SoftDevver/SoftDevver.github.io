@@ -38,7 +38,7 @@ I would stay into the evenings on most days, it would help me skip the 1700 traf
 
 It's surprisingly how quickly team dynamics form. By Friday, everyone was - as we say in Ireland - having *mighty craic*! But we weren't just exchanging stories and good laughs, we were also talking about networking, all of us were genuinely interested and excited in this area of tech. And because we all had differ backgrounds it made for some pretty interesting insights. Satellite engineers, embedded system engineers, AI grads, web developers, healthcare professionals, we had it all. Well if all is a tech workshop with a medical backup then sure!
 
-Come Friday, we had finished the first netacad module. Studying from 0800-1900 most days is intense so it's important to have some home support and some down-time. When I arrived home through the fron door I was delighted to find my Partner waiting for me to join her for a celebratory wijntje.
+Come Friday, we had finished the first netacad module. Studying from 0800-1900 most days is intense so it's important to have some home support and some down-time. When I arrived home through the fron door I was delighted to find my Partner waiting for me to join her for a celebratory drankje.
 
 *Proost!*
 
