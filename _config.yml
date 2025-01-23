@@ -12,7 +12,7 @@ lang: en-GB
 title: "SoftDevver"
 
 # A description of your site for meta tag, search engine results.
-description: "Scanning bones, securing zones - How I ended up in cybersecurity!"
+description: "Scanning bones, securing zones - A blog about jumping into cybersecurity!"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
@@ -40,7 +40,7 @@ navigation:
 #    url: https://softdevver.github.io/
 
 # The shortname for your Disqus site to enable comments.
-disqus: justgoodthemes
+disqus: softdevver
 
 # Colors
 accent_color: '#1e5778'
