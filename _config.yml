@@ -32,8 +32,8 @@ navigation:
     url: /
   - text: About
     url: /about
-  - text: Files
-    url: /files/
+#  - text: Files
+#    url: /files/
   - text: Tags
     url: /tags
 #  - text: Download
@@ -68,3 +68,7 @@ markdown: kramdown
 sass:
   sass_dir: _sass
   style: compressed
+
+# Sitemap generator
+- name: generate-sitemap
+  uses: cicirello/generate-sitemap@v1.10.1
