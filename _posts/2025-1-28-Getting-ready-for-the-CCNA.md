@@ -18,7 +18,7 @@ Our high-level overview was to implement a multi-branch infrastructure, with mul
 
 ### Troubleshooting
 
-{% include image_caption.html imageurl="/images/ccna_recap_lab.jpg" title="Recap Lab" caption="This was one of our final labs, trying to use as many technologies as possible." %}
+{% include image_caption.html imageurl="/images/ccna_recap_lab.png" title="Recap Lab" caption="This was one of our final labs, trying to use as many technologies as possible." %}
 
 Here’s a pic of the topology we worked on together (note the pretty fonts and colors). One of the things we struggled with in this design was setting up a logging and NTP server. For some reason, it just wouldn’t work. We spent hours troubleshooting NTP and Syslog and finally decided our setup was fine, and GNS3 was the culprit. We restarted the instance, swapped out a few virtual switches, and *voilà!* We finally had lovely trapped logs appearing on our Linux server. GNS3 was a great tool to learn the Cisco IOS CLI, but it definitely had its buggy moments. We all started poking fun at the issues and came up with creative ways to track how many virtual devices we managed to break. Below are some examples of the fun we had with the labs.
 
