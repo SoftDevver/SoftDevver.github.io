@@ -10,6 +10,8 @@ So that wraps it up, weeks 2 and 3 flew by! Our prep course for the Cisco CCNA h
 
 Learning how to actually implement infrastructure, like using STP to prevent Layer 2 looping, securing networks with things like port-security, access lists, ARP inspection, and DHCP snooping was pretty interesting, not gonna lie! But I’ll also admit, I was definitely ready for a break. Over the past three weeks, I studied for at least 7 hours in the Savnet classes and then 2-3 more hours at home or in the office. Staying late and arriving early helped me avoid the crazy Dutch rush hours (zo drukke)! But honestly, it was a memorable and valuable experience.
 
+<!--more-->
+
 ### Pulling it all together in our final lab
 
 Towards the end of the course, we thought, "Ah, we know this, exam in the bag, easy peasy." That was before Arthur ramped up the pace with some labs that were *a little* more fun. By fun, I mean difficult. And by a little, I mean just a wee bit (which is Irish for *a lot* ). Our final lab was a co-***lab***-orative effort. Okay, promise that's the last dad joke for now.
@@ -24,7 +26,7 @@ Here’s a pic of the topology we worked on together (note the pretty fonts and 
 
 {% include image_caption.html imageurl="/images/ccna_lab_sinbin.png" title="The Sinbin Lab" caption="In this lab, GCS3 had issues with several switches, so I decided to swap them out." %}
 
-{% include image_caption.html imageurl="/images/ccna_hell_gravyard.png" title="Graveyard Lab" caption="Victor and Luuk had similar issues, but they got a bit superstitious, so they buried their 'dead' devices instead." %}
+{% include image_caption.html imageurl="/images/ccna_lab_gravyard.png" title="Graveyard Lab" caption="Victor and Luuk had similar issues, but they got a bit superstitious, so they buried their 'dead' devices instead." %}
 
 {% include image_caption.html imageurl="/images/ccna_acls_qos_batman.png" title="QoS and ACL Lab" caption="Eventually, we sorted our issues and moved on to QoS and ACL integrated labs." %}
 

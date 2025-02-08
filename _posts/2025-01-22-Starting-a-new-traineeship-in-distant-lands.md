@@ -9,7 +9,6 @@ tags: [traineeship, work, cybersecurity, cisco, ccna, networking]
 November 13th, *ring* *ring*, my phone buzzed. I tentatively answered and... to my delight, it's someone from the traineeship I applied for. They want me on their team. How amazing is this. A leading company in Cybersecurity in The Netherlands is offering me a job where I get to learn and certify while working. Finally a chance to make some moves!
 
 But what do I have to arrange before I start working?
-
 <!--more-->
 
 ### Zo veel dingetjes
