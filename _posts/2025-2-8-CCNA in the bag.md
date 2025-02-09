@@ -3,7 +3,7 @@ layout: post
 title: "CCNA in the bag"
 description: "My experience of sitting the CCNA"
 date: 2025-02-09
-feature_image: images\ccna_sunrise_revision.jpg
+feature_image: images/ccna_sunrise_revision.jpg
 tags: [traineeship, work, cybersecurity, cisco, ccna, networking, exam, wireshark, study]
 ---
 **Boson ExSim, Jeremy's IT Labs, Cisco NetAcad, Anki flashcards, a couple of Discords, labs, YouTube, a couple of forests' worth of paper notes, more labs.** This has been my last week working from home, or what is probably more appropriately called studying at home. Especially with sunrises on our balcony like the one above (whenever the Dutch weather decides to be kind).
